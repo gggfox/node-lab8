@@ -1,7 +1,7 @@
 {
-    "name": "Lab-8",
+    "name": "Lab 8",
     "version": "1.0.0",
-    "description": "This is the repository for the Lab-8 of web development",
+    "description": "",
     "main": "index.js",
     "dependencies": {
         "express": "^4.16.3",
